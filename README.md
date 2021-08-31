@@ -1,4 +1,4 @@
-# Hi! my name is Gerry18 !
+# Hi! my name is Gerryd18 !
 - 🏫 I'm a student in Bina Nusantara University
 - 💻 Majoring in Information System
 - 💯 Love to learn java programming & web dev soon
